@@ -1,0 +1,4 @@
+requests
+pytest
+pytest-HTML
+mysql-connector-python
